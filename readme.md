@@ -1,5 +1,5 @@
 ![workflow](https://github.com/GL0W4/devops/actions/workflows/main.yml/badge.svg)
 First project in SEM
 # DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/GL0W4/devops/checkout@v4/develop?style=flat-square)
-(https://github.com/GL0W4/devops/releases)
+[![LICENSE](https://img.shields.io/github/license/GL0W4/devops.svg?style=flat-square)](https://github.com/GL0W4/devops/blob/master/LICENSE)
+[![Releases](https://img.shields.io/github/release/GL0W4/devops/all.svg?style=flat-square)](https://github.com/GL0W4/devops/releases)
